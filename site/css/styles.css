@@ -1,0 +1,36 @@
+header li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 8%;
+    margin-bottom: 90%;
+}
+
+body{
+    text-align: center;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    background-color: #ecdbbc;
+    margin: px;
+    border: 2px solid rgb(7, 7, 58);
+    padding: 10px;
+}
+
+a:active, a:hover{
+    background-color: rgb(44, 187, 187);
+}
+
+h2{
+    margin-bottom: 70px;
+}
+footer{
+    background-color: rgb(155, 133, 234);
+}
+
+h1{
+    background-color: #8ca2da;
+}
+body{
+    background-color: rgb(173, 185, 179);
+}
